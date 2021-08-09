@@ -17,7 +17,7 @@ public class Distance {
             calculate(x, y);
             s.close();
         } catch (Exception e) {
-            System.out.println("Enter Integer Only");
+            System.out.println("Enter Integer value Only");
         }
     }
 }
