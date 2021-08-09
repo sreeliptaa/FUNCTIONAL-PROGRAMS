@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class SumofThree {
     public static void main(String[] args) {
 
-            int[] arr = {1, 2, 3, 5, 7, -5, 6, -1, -2, -3, 4};
+            int[] arr = {1, -6, 4, 2, -1, 2, -2};
             int sumOfThree, count = 0;
 
             // logic and calculations
